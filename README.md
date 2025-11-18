@@ -80,6 +80,22 @@ Although the template loads data dynamically, it is structured to support:
 
 - Relationship-based model optimized for cross-filtering
 
+## Loans
+
+<img width="1309" height="742" alt="loan" src="https://github.com/user-attachments/assets/f0f157af-7e7d-406d-b11b-7c5f1b0812f4" />
+
+## Insurance
+
+<img width="1312" height="738" alt="insurance" src="https://github.com/user-attachments/assets/0b064b75-9c23-46cf-9e2e-87839f9f6a2a" />
+
+## Money Transfer
+
+<img width="1310" height="737" alt="Money_transfer" src="https://github.com/user-attachments/assets/1fc8b477-8401-4465-b4cb-e2f09e27bb45" />
+
+## Recharge Bills
+
+<img width="1309" height="736" alt="Recharge_bills" src="https://github.com/user-attachments/assets/79503ec0-958d-4472-9222-8a70a0f4177a" />
+
 ## 🛠️ How to Use This Template (.pbit)
 
 1. Open the .pbit file in Power BI Desktop
