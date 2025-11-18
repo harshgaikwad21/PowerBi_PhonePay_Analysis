@@ -101,3 +101,15 @@ Although the template loads data dynamically, it is structured to support:
 4. Refresh the dashboard to generate insights
 
 5. Publish to Power BI Service (optional)
+
+## 📌 Use Cases
+
+- Digital payments trend analysis
+
+- Business intelligence for fintech
+
+- Geographic penetration insights for product teams
+
+- Merchant/consumer behavior analysis
+
+- Stakeholder reporting and presentations
