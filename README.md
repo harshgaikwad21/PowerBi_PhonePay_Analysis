@@ -112,6 +112,30 @@ Although the template loads data dynamically, it is structured to support:
 
 ## Insurance
 
+## 📌 Dashboard Insights (Summary)
+
+- **Total Premium Collected**: ₹512.92M
+
+- **Average Premium by Insurance Type**: ₹128.86M per category.
+
+- **Insurance Type Performance**:
+
+    - **Car Insurance** leads with ~₹129.3M.
+
+    - **Term Life, Bike**, and **Health** follow closely, each contributing around ₹126M–₹128M.
+
+    - All categories show a **balanced distribution**, with no major dominance.
+
+- **Monthly Premium Trend**:
+
+    - Premium collection remains **consistent across all months**, generally around **₹40M–₹45M** each month.
+
+    - **July, August, and December** show slightly higher premium values.
+
+- **Category Distribution**:
+
+    - Insurance types contribute almost **equally**, indicating a **well-diversified premium portfolio**.
+
 <img width="1312" height="738" alt="insurance" src="https://github.com/user-attachments/assets/0b064b75-9c23-46cf-9e2e-87839f9f6a2a" />
 
 ## Money Transfer
