@@ -55,3 +55,15 @@ The template contains multiple report pages (as seen in the project structure), 
 - Bar charts with hierarchies
 
 - Info-graphics supported by image URL bindings
+
+## 🎨 Visual & Theme Customizations
+
+The template uses a consistent visual theme aligned with PhonePe branding:
+
+- Primary Color: #5F259F (PhonePe Purple)
+
+- Accent colors for categories and regions
+
+- Clean, minimal layout with focus on clarity
+
+- Multiple pages include branded assets via image URLs
