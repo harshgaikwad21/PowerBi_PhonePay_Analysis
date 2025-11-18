@@ -26,3 +26,32 @@ The template contains multiple report pages (as seen in the project structure), 
 - User Demographics (if data is provided)
 
 - Branding & Visual Identity Page – PhonePe themed colors and assets
+
+## 📈 Analytics Covered
+## KPIs Included
+
+- Total Transactions
+
+- Total Transaction Value
+
+- Average Transaction Size
+
+- YoY / MoM growth
+
+- Category-wise contribution
+
+- Trend deviation indicators
+
+## Visual Types Used
+
+- Line Charts for trends
+
+- Donut & Pie charts for category contribution
+
+- Map visuals for state/district analysis
+
+- Cards with conditional formatting
+
+- Bar charts with hierarchies
+
+- Info-graphics supported by image URL bindings
