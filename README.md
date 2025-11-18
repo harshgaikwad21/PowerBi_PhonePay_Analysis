@@ -2,3 +2,8 @@
 ## 🚀 PhonePe Payment Insights – Power BI Dashboard 
 
 A comprehensive analytics dashboard built using Power BI, designed to visualize trends, patterns, and performance indicators related to PhonePe transactions across different metrics. This dashboard provides business-ready insights to support decision-making through interactive pages and drill-down visuals.
+
+## 🔍 Project Overview
+
+This Power BI project analyzes PhonePe’s digital payments ecosystem using interactive visuals and KPI cards.
+The .pbit template includes predefined pages, theme colors, visuals, and structured data models to enable users to load their own dataset and instantly generate insights.
