@@ -79,3 +79,25 @@ Although the template loads data dynamically, it is structured to support:
 - Lookup tables (Category, Geography)
 
 - Relationship-based model optimized for cross-filtering
+
+## 🛠️ How to Use This Template (.pbit)
+
+1. Open the .pbit file in Power BI Desktop
+
+2. When prompted, load your dataset (CSV, SQL, Excel, API, etc.)
+
+3. Map fields based on:
+
+Transaction Amount
+
+Transaction Count
+
+Category
+
+State / District
+
+Date
+
+Refresh the dashboard to generate insights
+
+Publish to Power BI Service (optional)
