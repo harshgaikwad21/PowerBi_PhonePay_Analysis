@@ -86,6 +86,30 @@ Although the template loads data dynamically, it is structured to support:
 
 <img width="1309" height="742" alt="loan" src="https://github.com/user-attachments/assets/f0f157af-7e7d-406d-b11b-7c5f1b0812f4" />
 
+## 📌 Dashboard Insights (Summary)
+
+- **Total Loan Amount**: ₹2.53 billion, with an **average loan size** of ₹50.65K and a **maximum loan** of ₹100K.
+
+- **Loan Type Trend**:
+
+     - **Auto Loan** has the highest loan amount (~644M).
+
+     - Followed by **Mutual Fund (634M), Gold Loan (632M)**, and **Credit Score loans (622M)**.
+
+     - Overall trend shows a **steady decline** across categories.
+
+- **Payment Status**:
+
+     - Majority of loan payments are **Successful**, with **Failed** payments making up only a small proportion.
+
+- **Monthly Activity**:
+
+     - Payment activity fluctuates between **4,000–4,400** counts per month.
+
+     - **July and October** show noticeable peaks.
+
+- **Filters Available**: Reasons such as Bank Denied, Server Error, Successful, and Wrong Info can be applied for deeper analysis.
+
 ## Insurance
 
 <img width="1312" height="738" alt="insurance" src="https://github.com/user-attachments/assets/0b064b75-9c23-46cf-9e2e-87839f9f6a2a" />
