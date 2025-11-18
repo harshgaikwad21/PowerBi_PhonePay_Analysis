@@ -88,15 +88,15 @@ Although the template loads data dynamically, it is structured to support:
 
 3. Map fields based on:
 
-  - Transaction Amount
+    - Transaction Amount
 
-  - Transaction Count
+    - Transaction Count
 
-  - Category
+    - Category
 
-  - State / District
+    - State / District
 
-  - Date
+    - Date
 
 4. Refresh the dashboard to generate insights
 
