@@ -88,16 +88,16 @@ Although the template loads data dynamically, it is structured to support:
 
 3. Map fields based on:
 
-Transaction Amount
+- Transaction Amount
 
-Transaction Count
+- Transaction Count
 
-Category
+- Category
 
-State / District
+- State / District
 
-Date
+- Date
 
-Refresh the dashboard to generate insights
+4. Refresh the dashboard to generate insights
 
-Publish to Power BI Service (optional)
+5. Publish to Power BI Service (optional)
