@@ -113,3 +113,13 @@ Although the template loads data dynamically, it is structured to support:
 - Merchant/consumer behavior analysis
 
 - Stakeholder reporting and presentations
+
+## 🚧 Future Enhancements (Recommended)
+
+- Add DAX-based anomaly detection
+
+- Implement forecasting for transactions
+
+- Integrate advanced tooltips for richer drilldowns
+
+- Add RLS (Row Level Security) for enterprise sharing
