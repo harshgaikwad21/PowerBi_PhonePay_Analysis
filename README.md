@@ -86,7 +86,7 @@ Although the template loads data dynamically, it is structured to support:
 
 <img width="1309" height="742" alt="loan" src="https://github.com/user-attachments/assets/f0f157af-7e7d-406d-b11b-7c5f1b0812f4" />
 
-## 📌 Dashboard Insights (Summary)
+## 📌 Dashboard Insights (Loans)
 
 - **Total Loan Amount**: ₹2.53 billion, with an **average loan size** of ₹50.65K and a **maximum loan** of ₹100K.
 
@@ -112,7 +112,9 @@ Although the template loads data dynamically, it is structured to support:
 
 ## Insurance
 
-## 📌 Dashboard Insights (Summary)
+<img width="1312" height="738" alt="insurance" src="https://github.com/user-attachments/assets/0b064b75-9c23-46cf-9e2e-87839f9f6a2a" />
+
+## 📌 Dashboard Insights (Insurance)
 
 - **Total Premium Collected**: ₹512.92M
 
@@ -135,9 +137,6 @@ Although the template loads data dynamically, it is structured to support:
 - **Category Distribution**:
 
     - Insurance types contribute almost **equally**, indicating a **well-diversified premium portfolio**.
-
-<img width="1312" height="738" alt="insurance" src="https://github.com/user-attachments/assets/0b064b75-9c23-46cf-9e2e-87839f9f6a2a" />
-
 ## Money Transfer
 
 <img width="1310" height="737" alt="Money_transfer" src="https://github.com/user-attachments/assets/1fc8b477-8401-4465-b4cb-e2f09e27bb45" />
