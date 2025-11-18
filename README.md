@@ -67,3 +67,15 @@ The template uses a consistent visual theme aligned with PhonePe branding:
 - Clean, minimal layout with focus on clarity
 
 - Multiple pages include branded assets via image URLs
+
+## 🧱 Data Model Overview
+
+Although the template loads data dynamically, it is structured to support:
+
+- Fact table for transactions
+
+- Date table with hierarchy
+
+- Lookup tables (Category, Geography)
+
+- Relationship-based model optimized for cross-filtering
