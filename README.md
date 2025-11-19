@@ -1,5 +1,9 @@
 # PowerBi_PhonePay_Analysis
 
+## Tool Used :
+
+![power_bi](https://up.yimg.com/ib/th/id/OIP.qAwpaT7q385MhQTQi-9IagHaHa?pid=Api&rs=1&c=1&qlt=95&w=118&h=118)
+
 ![phone_pay](https://wallpapercave.com/wp/wp13954584.jpg)
 ## 🚀 PhonePe Payment Insights – Power BI Dashboard 
 
