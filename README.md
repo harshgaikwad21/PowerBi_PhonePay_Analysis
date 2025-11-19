@@ -141,6 +141,19 @@ Although the template loads data dynamically, it is structured to support:
 
 <img width="1310" height="737" alt="Money_transfer" src="https://github.com/user-attachments/assets/1fc8b477-8401-4465-b4cb-e2f09e27bb45" />
 
+## 📊 Key Insights from the PhonePe Transaction Dashboard
+
+- **Total Transactions Amount:** ₹362.95M, indicating high digital payment activity.
+- **Average Transaction Amount:** ₹2.52K, showing moderate-value transfers dominate usage.
+- **Popular Transfer Types:** UPI ID and Mobile Number transfers show the highest share in both amount and transaction count.
+- **Monthly Activity:** Transaction counts remain consistently high across all months, with no major seasonal dips.
+- **Transfer Patterns:**  
+  - *To UPI ID* and *To Mobile Number* contribute significantly to overall transaction volume.  
+  - *To QR Code* and *To Self Account* have comparatively lower usage.
+- **Overall Trend:** Steady payment flow across the year with balanced distribution among major transfer types.
+
+
+
 ## Recharge Bills
 
 <img width="1309" height="736" alt="Recharge_bills" src="https://github.com/user-attachments/assets/79503ec0-958d-4472-9222-8a70a0f4177a" />
