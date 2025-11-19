@@ -1,10 +1,12 @@
 # PowerBi_PhonePay_Analysis
 
+
+![phone_pay](https://wallpapercave.com/wp/wp13954584.jpg)
+
 ## Tool Used :
 
 ![power_bi](https://up.yimg.com/ib/th/id/OIP.qAwpaT7q385MhQTQi-9IagHaHa?pid=Api&rs=1&c=1&qlt=95&w=118&h=118)
 
-![phone_pay](https://wallpapercave.com/wp/wp13954584.jpg)
 ## 🚀 PhonePe Payment Insights – Power BI Dashboard 
 
 A comprehensive analytics dashboard built using Power BI, designed to visualize trends, patterns, and performance indicators related to PhonePe transactions across different metrics. This dashboard provides business-ready insights to support decision-making through interactive pages and drill-down visuals.
