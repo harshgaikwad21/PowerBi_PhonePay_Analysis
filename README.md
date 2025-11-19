@@ -165,6 +165,41 @@ Although the template loads data dynamically, it is structured to support:
 
 <img width="1309" height="736" alt="Recharge_bills" src="https://github.com/user-attachments/assets/79503ec0-958d-4472-9222-8a70a0f4177a" />
 
+📊 PhonePe Recharge & Bill Insights (Jan–May 2024)
+🔹 **Overall Transactions**
+
+- **Total Amount Processed: ₹50.69M**
+
+- **Earliest Transaction Date: 01 January 2024**
+
+🔹 **Monthly Trend**
+
+- Monthly totals range around **₹41M–₹43M**, showing **stable transaction volume**.
+
+- **May** recorded the **highest amount (₹43.49M)**, indicating slight growth.
+
+🔹 **Recharge Type & Reason**
+
+- **Successful recharges dominate** with each success category contributing around **24%**.
+
+- **Failure reasons** such as Wrong PIN, Insufficient amount, and Wrong details collectively form a very small percentage (<1%), indicating good transaction success rate.
+
+🔹 **Recharge Type Distribution**
+
+- Top recharge categories include:
+
+    - **Electricity Bill**
+
+    - **Cable TV**
+
+    - **Mobile Recharge**
+
+    - **DTH**
+
+🔹 **Cumulative Monthly Growth**
+
+- A steady **month-on-month increase** is visible, indicating consistent user activity and transaction frequency.
+
 ## 🛠️ How to Use This Template (.pbit)
 
 1. Open the .pbit file in Power BI Desktop
