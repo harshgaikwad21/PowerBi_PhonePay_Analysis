@@ -141,7 +141,7 @@ Although the template loads data dynamically, it is structured to support:
 
 <img width="1310" height="737" alt="Money_transfer" src="https://github.com/user-attachments/assets/1fc8b477-8401-4465-b4cb-e2f09e27bb45" />
 
-## 📊 Key Insights from the PhonePe Transaction Dashboard
+## 📌 Dashboard Insights (Money Transfer)
 
 - **Total Transactions Amount:** ₹362.95M, indicating high digital payment activity.
  
@@ -165,7 +165,8 @@ Although the template loads data dynamically, it is structured to support:
 
 <img width="1309" height="736" alt="Recharge_bills" src="https://github.com/user-attachments/assets/79503ec0-958d-4472-9222-8a70a0f4177a" />
 
-📊 PhonePe Recharge & Bill Insights (Jan–May 2024)
+## 📌 Dashboard Insights (Recharge & Bills)
+
 🔹 **Overall Transactions**
 
 - **Total Amount Processed: ₹50.69M**
