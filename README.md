@@ -144,12 +144,19 @@ Although the template loads data dynamically, it is structured to support:
 ## 📊 Key Insights from the PhonePe Transaction Dashboard
 
 - **Total Transactions Amount:** ₹362.95M, indicating high digital payment activity.
+ 
 - **Average Transaction Amount:** ₹2.52K, showing moderate-value transfers dominate usage.
+ 
 - **Popular Transfer Types:** UPI ID and Mobile Number transfers show the highest share in both amount and transaction count.
+ 
 - **Monthly Activity:** Transaction counts remain consistently high across all months, with no major seasonal dips.
-- **Transfer Patterns:**  
-  - *To UPI ID* and *To Mobile Number* contribute significantly to overall transaction volume.  
+
+- **Transfer Patterns:**
+ 
+  - *To UPI ID* and *To Mobile Number* contribute significantly to overall transaction volume.
+    
   - *To QR Code* and *To Self Account* have comparatively lower usage.
+
 - **Overall Trend:** Steady payment flow across the year with balanced distribution among major transfer types.
 
 
